@@ -1,0 +1,19 @@
+{
+  "name": "ng1.5-multi-slot-transclusion",
+  "version": "1.0.0",
+  "description": "multi slot transclusion demos (some borrowed from ngconf 2016)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HipsterZipster/ng1.5-multi-slot-transclusion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HipsterZipster/ng1.5-multi-slot-transclusion/issues"
+  },
+  "homepage": "https://github.com/HipsterZipster/ng1.5-multi-slot-transclusion#readme"
+}
